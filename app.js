@@ -1,6 +1,8 @@
+//invalid password
 var a1 = "Error! Please enter a valid password.";
 alert(a1);
 
+//welcome
 var a = "Welcome to JS Land...\nHappy Coding!\n";
 alert(a);
 
